@@ -1,0 +1,4 @@
+# Minimal requirements generated from Numerology.ipynb imports.
+# The notebook uses only Python stdlib modules (collections, datetime).
+# Install Jupyter to run the notebook interactively.
+jupyter
